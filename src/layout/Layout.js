@@ -38,7 +38,7 @@ export default function Layout() {
                 <HomeIcon />
               </IconButton>
               <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                ExamApp
+                ###7.10 배포해보기 ExamApp
               </Typography>
             </Toolbar>
           </AppBar>
